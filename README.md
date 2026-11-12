@@ -13,7 +13,7 @@ Translate a validated threat hypothesis into a proposed KQL detection and SOC ha
 
 ## 2. Scope, environment and authorization
 - **Systems/data:** [Microsoft]
-- **Tools:** [MITRE ATT@CK, OTX]
+- **Tools:** [MITRE ATT@CK, OTX, Sentinel ]
 - **Authorization:** [Approved lab]
 
 ## 3. Methodology
