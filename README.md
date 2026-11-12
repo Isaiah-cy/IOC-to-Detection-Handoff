@@ -24,7 +24,7 @@ Translate a validated threat hypothesis into a proposed KQL detection and SOC ha
 ## 4. Evidence
 |SN| Evidence ID | Link|
 |---|---|---|
-| 1| E-01 | [Screenshot]()|
+| 1| E-01 | [Screenshot](https://github.com/Isaiah-cy/IOC-to-Detection-Handoff/tree/main/Screenshots)|
 
 ## 5. Findings and analysis
 [What did you observe? Distinguish observed facts from hypotheses.]
